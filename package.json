@@ -1,0 +1,15 @@
+{
+  "name": "dict",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dict.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sai kiran",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.3.0",
+    "request": "^2.81.0"
+  }
+}
