@@ -5,7 +5,7 @@ To initialise using it run "npm install" in the folder you download these files.
 
 Once packages are installed you can run following commands.
 
-1) node dict def <word>
+1)node dict def <word>
 
 This is for getting definitions of given word.
 
